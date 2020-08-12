@@ -1,2 +1,5 @@
 # hello-world
-Testing first repository
+
+Hi Humans!
+
+Rawrbot here to help you with your journey in github.
